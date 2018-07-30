@@ -1,6 +1,6 @@
 audit_header: false
-title:
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: The Shawn Lepp Group
+description: Shawn Lepp, a top Real Estate Agent in Durham, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
@@ -14,21 +14,23 @@ custom_links:
 
 
 client:
-  name:
+  name: Shawn Lepp
   title:
   license_number:
   about_markdown: |
+    Shawn Lepp received a Bachelor of Commerce from Guelph University and has been licensed to sell real estate for over 15 years. He is married and has 2 children that he loves to spend time with.
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
-  phone_type:
-  phone2:
-  phone2_type:
-  email:
-  url:
+    In his first year with Keller Williams, Shawn was ranked in the top five in Canada for sales volume and was the number one sales and listing agent at his Keller Williams Office. Based on third party analysis, Shawn as consistently been in the top 25 agents on the Toronto Real Estate Board (out of over 44,000 agents).
+  market: Durham
+  brand: The Shawn Lepp Group
+  brokerage: Keller Williams Energy Lepp Group
+  address: 111 Byron Street South<br>Whitby, Ontario L1N 4P5
+  phone: 905-409-6778
+  phone_type: Cell
+  phone2: 905-428-8100
+  phone2_type: Office
+  email: shawn@shawnlepp.com
+  url: http://www.shawnlepp.com
 
 lender:
   show_section: false
@@ -44,13 +46,13 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/TheShawnLeppTeam/
+  linkedin_url: https://www.linkedin.com/in/theshawnleppteam
+  gplus_url: https://plus.google.com/114091879755957576821/posts
+  youtube_url: https://www.youtube.com/user/shawnleppteam/videos
+  twitter_url: https://twitter.com/shawnlepp
   instagram_url:
-  pinterest_url:
+  pinterest_url: https://www.pinterest.com/slepp/
   zillow_url:
   trulia_url:
   yelp_url:
@@ -74,8 +76,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#313f7e'
+  theme_color: '#130c0e'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
