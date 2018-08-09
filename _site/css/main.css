@@ -2655,6 +2655,9 @@ form select {
 .newsletter {
   background: #0a0607; }
 
+.contact {
+  font-size: 18px; }
+
 #side-logo {
   width: 90%;
   margin: 0 auto; }
@@ -2714,7 +2717,7 @@ form select {
 
 .recruiting-page {
   Font-size: 18px;
-  width: 75%;
+  width: 85%;
   margin: 0 auto;
   color: #000; }
 

@@ -5,12 +5,12 @@ show_custom_links: true
 custom_links:
   - title: Join Our Team
     url: /join-our-team/
-  - title: Events
-    url: #
-  - title: Free Strategy Call
-    url: /strategy-call/
-  - title: Free Newsletter
-    url: /subscribe/
+  # - title: Events
+  #   url: #
+  # - title: Free Strategy Call
+  #   url: /strategy-call/
+  # - title: Free Newsletter
+  #   url: /subscribe/
 
 
 client:
@@ -18,9 +18,19 @@ client:
   title:
   license_number:
   about_markdown: |
-    Shawn Lepp received a Bachelor of Commerce from Guelph University and has been licensed to sell real estate for over 15 years. He is married and has 2 children that he loves to spend time with.
+    Shawn Lepp is one of Durham Region's top producing team leaders with over 2,000 transactions and sales volume over $700,000,000 since he was licensed. Shawn possesses an expansive real estate background and has years of experience in helping clients buy and sell homes.
 
-    In his first year with Keller Williams, Shawn was ranked in the top five in Canada for sales volume and was the number one sales and listing agent at his Keller Williams Office. Based on third party analysis, Shawn as consistently been in the top 25 agents on the Toronto Real Estate Board (out of over 44,000 agents).
+    Specializing in the Durham Region, Shawn's knowledge of the communities, understanding of her client’s needs, and proven marketing strategies have helped him to consistently be in the top 25 agents on the Toronto Real Estate Board and the number one team in Keller Williams Energy.
+
+    Shawn is passionate about helping those around him live the life the envision. He has operated a team of successful agents for over 15 years and has used his organized approach, coaching, education and one on one mentoring to assist his agents in reaching new heights in their real estate careers.
+
+    <strong>AWARDS & DESIGNATIONS:</strong><br>
+    <strong>KELLER WILLIAMS CANADA</strong><br>
+    Triple Platimum Award Winner - Multiple Years<br>
+    Quadruple Platimum Award Winner - Multiple Years
+
+    <strong>KELLER WILLIAMS ENERGY</strong><br>
+    Top Producing Group 2007-2017
   market: Durham
   brand: The Shawn Lepp Group
   brokerage: Keller Williams Energy Lepp Group
@@ -46,11 +56,11 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/TheShawnLeppTeam/
+  facebook_url: https://www.facebook.com/Real-Estate-As-A-Career-1606035362841778/
   linkedin_url: https://www.linkedin.com/in/theshawnleppteam
-  gplus_url: https://plus.google.com/114091879755957576821/posts
-  youtube_url: https://www.youtube.com/user/shawnleppteam/videos
-  twitter_url: https://twitter.com/shawnlepp
+  gplus_url:
+  youtube_url: https://www.youtube.com/channel/UC5h0oeMMbWd_v4G04cr7NXA
+  twitter_url: https://twitter.com/leppshawn
   instagram_url:
   pinterest_url: https://www.pinterest.com/slepp/
   zillow_url:
