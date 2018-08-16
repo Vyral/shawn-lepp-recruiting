@@ -97,9 +97,29 @@
 		height: 300px
 
 	.nav-logo-small
-		max-width: 125px
-		margin-top: -10px
+		max-width: 90px
+		margin-top: -18px
 
+@media (max-width: 500px)
+	#hero
+		padding-top: 0 !important
+
+	.client-image-container
+		width: 125px !important
+		height: 125px !important
+
+	.client-image
+		max-width: 125px !important
+
+	.join-us
+		width: 90% !important
+		font-size: 36px !important
+
+	.join-us-subtitle
+		font-size: 24px !important
+
+	.indent
+		margin-left: 1rem !important
 
 @media(max-width: 347px)
 	.navbar
@@ -111,25 +131,3 @@
 			overflow: hidden
 			display: none
 			opacity: 0
-// .scroll-nav-color
-// 	background: transparentize($theme, 0)
-// 	animation: .5s fadeNavigation ease-in-out
-// 	+shadow
-// @keyframes fadeNavigation
-// 	0%
-// 		transform: translateY(0)
-// 		background: transparentize($theme, 1)
-// 	// 50%
-// 	// 	transform: translateY(-100px)
-// 	// 	background: transparent
-// 	// 51%
-// 	// 	background: $brand
-// 	100%
-// 		background: transparentize($theme, 0)
-// 		transform: translateY(0)
-// 		+shadow
-// 		// background: $theme
-.brand-color
-	+shadow
-	background: $theme
-	animation: .3s fadein ease-in-out

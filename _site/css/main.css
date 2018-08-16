@@ -1421,8 +1421,28 @@ html[xmlns] .flexslider .slides {
     height: 300px; }
 
   .nav-logo-small {
-    max-width: 125px;
-    margin-top: -10px; } }
+    max-width: 90px;
+    margin-top: -18px; } }
+@media (max-width: 500px) {
+  #hero {
+    padding-top: 0 !important; }
+
+  .client-image-container {
+    width: 125px !important;
+    height: 125px !important; }
+
+  .client-image {
+    max-width: 125px !important; }
+
+  .join-us {
+    width: 90% !important;
+    font-size: 36px !important; }
+
+  .join-us-subtitle {
+    font-size: 24px !important; }
+
+  .indent {
+    margin-left: 1rem !important; } }
 @media(max-width: 347px) {
   .navbar {
     padding-right: 5px;
@@ -1433,12 +1453,6 @@ html[xmlns] .flexslider .slides {
     overflow: hidden;
     display: none;
     opacity: 0; } }
-.brand-color {
-  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
-  background: #130c0e;
-  -webkit-animation: 0.3s fadein ease-in-out;
-          animation: 0.3s fadein ease-in-out; }
-
 .navbar-andross-bottom {
   background: #130c0e;
   color: #fff;
