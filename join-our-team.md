@@ -45,7 +45,7 @@ permalink: /join-our-team/
 
 <p>Or, you can join our team, where we will provide you with the training, the systems, and the guidance necessary to take your career to a place that you never thought it would be.</p>
 
-<p>But, don’t just take my word for it. Consider the stories of Jodie and Richard. It’s Jodie's first year in the business, and she’s on track to complete over 20 deals this year. Richard was brought on last year and averaging five deals per year in six years in the business. This year alone, he’s listed over 40 homes.</p>
+<p>But, don’t just take my word for it. Consider the stories of Jodie and Richard. In Jodie's first year in the business, she was on track to complete over 20 deals. Richard was brought on last year and averaging five deals per year in six years in the business. This year alone, he’s listed over 40 homes.</p>
 
 <p>If you join The Shawn Lepp Group, you’ll be joining a brokerage with impeccable service, strong name recognition, and a great reputation in the community. We have a 30, 60, or 90-day onboarding process based on your experience, and we will use that time to teach you our systems to make sure you know exactly how the process works and exactly what you should be doing. You’ll hit the ground running and be on the fast track to generating business. Marion has been on our team since 2009 and her income has grown every year.</p>
 
