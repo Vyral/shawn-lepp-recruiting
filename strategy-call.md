@@ -44,7 +44,7 @@ permalink: /strategy-call/
 <p><span class="quote">I have worked on the team for 10 years now.   I have consistently year over year met my goals and most years exceeded my goals. 
 The accountability and training has been key to my success in real estate. </span><br>
 <span class="author">Marion Penny</span></p>
-
+</div>
 <hr>
 
 <p>You don’t need to pay a bunch of money to a real estate coach.</p>
