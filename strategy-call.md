@@ -34,20 +34,18 @@ permalink: /strategy-call/
 
 <p>This will help you get the commission consistency and the freedom we all want from our business.</p>
 
-<!-- <hr>
+<hr>
 <div class="qanda">
 <p class="section-title">Here’s what a few agents say about working with me…</p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">Since I have joined the Shawn Lepp Group my volume of sales has more then doubled in the first year alone. Going from an average of 5-6 deals a year to 35 deals in my first 12 months. My skills and confidence have significantly increased due to the support, training and coaching our team has to offer. With the systems, Lead Generation and Branding supporting me, I can set even higher targets for the upcoming year.</span><br>
+<span class="author">Richard Tait</span></p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
+<p><span class="quote">I have worked on the team for 10 years now.   I have consistently year over year met my goals and most years exceeded my goals. 
+The accountability and training has been key to my success in real estate. </span><br>
+<span class="author">Marion Penny</span></p>
 
-<p><span class="quote"></span><br>
-<span class="author"></span></p>
-</div>
-<hr> -->
+<hr>
 
 <p>You don’t need to pay a bunch of money to a real estate coach.</p>
 
