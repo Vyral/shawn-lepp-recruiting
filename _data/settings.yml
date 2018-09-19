@@ -5,7 +5,7 @@ show_custom_links: true
 custom_links:
   - title: Join Our Team
     url: /join-our-team/
-   - title: Events
+  - title: Events
     url: https://www.eventbrite.ca/o/shawn-lepp-group-17861766221
   - title: Free Strategy Call
     url: /strategy-call/
