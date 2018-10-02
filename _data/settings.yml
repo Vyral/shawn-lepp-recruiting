@@ -9,8 +9,8 @@ custom_links:
     url: https://www.eventbrite.ca/o/shawn-lepp-group-17861766221
   - title: Free Strategy Call
     url: /strategy-call/
-  # - title: Free Newsletter
-  #   url: /subscribe/
+  - title: Free Newsletter
+    url: /subscribe/
 
 
 client:
@@ -18,7 +18,7 @@ client:
   title:
   license_number:
   about_markdown: |
-    <strong>Shawn Lepp</strong> is one of Durham Region's top producing team leaders with over 2,000 transactions and sales volume over <strong>$700,000,000</strong> since he was licensed. Shawn possesses an expansive real estate background and has years of experience in helping clients buy and sell homes. 
+    <strong>Shawn Lepp</strong> is one of Durham Region's top producing team leaders with over 2,000 transactions and sales volume over <strong>$700,000,000</strong> since he was licensed. Shawn possesses an expansive real estate background and has years of experience in helping clients buy and sell homes.
 
     Specializing in the Durham Region, Shawn's knowledge of the communities, understanding of her client’s needs, and proven marketing strategies have helped him to consistently be in the top 25 agents on the Toronto Real Estate Board and the number one team in Keller Williams Energy.
 

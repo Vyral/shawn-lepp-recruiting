@@ -1407,6 +1407,9 @@ html[xmlns] .flexslider .slides {
   margin-top: 2rem;
   font-weight: bold; }
 
+.nav > li > a {
+  padding: 10px; }
+
 .nav-logo {
   float: left !important;
   max-width: 125px;
@@ -2683,7 +2686,7 @@ form select {
   font-style: italic; }
 
 .testimonial-author {
-  color: #b40101;
+  color: #313f7e;
   margin-top: -20px; }
 
 .recruiting {

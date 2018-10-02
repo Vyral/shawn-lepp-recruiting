@@ -34,6 +34,9 @@
 <loc>localhost:4000/sign-up/</loc>
 </url>
 <url>
+<loc>localhost:4000/strategy-call/</loc>
+</url>
+<url>
 <loc>localhost:4000/subscribe/</loc>
 </url>
 <url>
