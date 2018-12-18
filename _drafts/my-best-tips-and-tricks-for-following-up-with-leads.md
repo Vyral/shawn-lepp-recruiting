@@ -21,7 +21,7 @@ youtube_code: dB1sSin6J08
 
 {% include youtube.html %}
 
-Need some tips and tricks for following up with leads and landing those appointments? Today I’ll give you my advice.
+<center>Need some tips and tricks for following up with leads and landing those appointments? Today I’ll give you my advice.</center>
 
 The first thing I always tell agents looking for advice about following up with leads is to make sure that you call them back immediately. Don’t wait hours or even 10 minutes to return the call; people expect timely responses, so call back as soon as is possible.
 
