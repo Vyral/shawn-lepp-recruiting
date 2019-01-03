@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Shawn Lepp Group - your professional Durham Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Shawn Lepp</managingEditor>
-    <lastBuildDate>2018-10-02 11:52:41 -0500</lastBuildDate>
+    <lastBuildDate>2019-01-03 14:42:31 -0600</lastBuildDate>
     <media:copyright>Shawn Lepp</media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Durham, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -24,6 +24,47 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Shawn Lepp Group - your professional Durham Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>My Best Tips and Tricks for Following Up With Leads</title>
+        <link>localhost:4000/my-best-tips-and-tricks-for-following-up-with-leads.html</link>
+        
+          <category>Lead Conversion</category>
+        
+        <author>Shawn Lepp</author>
+        <pubDate>2018-12-17 18:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Shawn+Lepp/Videos/The+Shawn+Lepp+Group+-+My+Best+Tips+and+Tricks+for+Following+Up+With+Leads.mp4</guid>
+        <description>
+
+Need some tips and tricks for following up with leads and landing those appointments? Today I&rsquo;ll give you my advice.
+
+ 
+
+The first thing I always tell agents looking for advice about following up with leads is to make sure that you call them back immediately. Don’t wait hours or even 10 minutes to return the call; people expect timely responses, so call back as soon as possible.
+
+If you’re at an appointment when you receive a call from a potential lead, send them a quick email or text to let them know that you’re currently at an appointment and that you’ll call them back shortly.
+
+It’s vital that you actually follow through with the promise to call them back. People don’t always answer their phones, so be sure to send a text to let them know who was calling, why you called, and that you’ll follow up with them in a few hours. Many times, it’ll take six or seven attempts before the prospect will call you back.
+
+Next, don’t leave your lead on your phone. Put that person’s contact information into your database. Here at the Shawn Lepp Group, we have a 33-touch and an 8x8 system in place to automatically follow up with leads via email, text messages, and if we have their physical address, through the mail. We like to reach out to them at least six or seven times in the first two weeks to make sure we’re branding ourselves so they know who we are.
+
+“Don’t wait hours or even 10 minutes to return the call; people expect timely responses, so call back as soon as possible.”
+
+Depending on the question that they’ve asked us, there are some different setups that we will follow. If it’s a listing lead and they’re asking for a home evaluation, we will send some materials to their home address and email them some videos about our team to let them know what kind of services we offer. If it’s a buyer lead, we’ll ask them if they’ve seen any houses they’re interested in yet.
+
+Whatever we do, it’s critically important to make contact more than once. They say the best conversion time is between the sixth and tenth time you contact someone, while most agents, if they actually call back, will stop after the first call.Ultimately, the key is to make sure you put these leads into your database and that you continue to follow up with their inquiries.
+
+If you would like more information regarding the best tips, tricks, and systems we use to land those appointments, feel free to reach out to me. I’d love to speak with you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Shawn+Lepp/Videos/The+Shawn+Lepp+Group+-+My+Best+Tips+and+Tricks+for+Following+Up+With+Leads.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Shawn+Lepp/Videos/The+Shawn+Lepp+Group+-+My+Best+Tips+and+Tricks+for+Following+Up+With+Leads.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Need some tips and tricks for following up with leads and landing those appointments? Today I’ll give you my advice.</itunes:subtitle>
+        <itunes:author>Shawn Lepp</itunes:author>
+        <itunes:summary>Need some tips and tricks for following up with leads and landing those appointments? Today I’ll give you my advice.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Durham, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
     <copyright>Shawn Lepp</copyright>
     <media:credit role="author">Shawn Lepp</media:credit>
     <media:rating>nonadult</media:rating>
