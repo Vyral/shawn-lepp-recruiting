@@ -17,6 +17,8 @@ youtube_code: WNYubq3pBcI
 
 {% include youtube.html %}
 
-<center>Today I'm interviewed by John McMillan about my journey through real estate.</center>
+<center><em>Today I'm interviewed by John McMillan about my journey through real estate.</em></center>
+
+&nbsp;
 
 Today I'm interviewed by John McMillan about my journey through real estate. From a fresh college graduate to successful real estate broker, I've learned a lot over the years. A few highlights include what attracted me to real estate, starting at Century 21, starting my own team at Keller Williams, and advice for newer agents.
