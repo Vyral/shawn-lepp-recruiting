@@ -19,7 +19,7 @@ youtube_code: CR4Io1UAruk
 
 {% include youtube.html %}
 
-If you want to earn more leads, follow these three simple tips.
+<center>If you want to earn more leads, follow these three simple tips.</center>
 
 Almost everyone I know could use a few more leads right now. So if you’re looking to generate more leads yourself, there are a number of simple ways you can do so within the next 24 hours.
 
