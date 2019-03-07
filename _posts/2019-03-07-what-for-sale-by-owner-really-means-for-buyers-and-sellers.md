@@ -18,7 +18,9 @@ youtube_code: P7fQPbu2bI0
 
 {% include youtube.html %}
 
-<center>Your database is your business, so how can you manage yours to maintain a steady relationship with past clients and referrals? Today I’ll share my tips.</center>
+<center><em>Your database is your business, so how can you manage yours to maintain a steady relationship with past clients and referrals? Today I&rsquo;ll share my tips.</em></center>
+
+&nbsp;
 
 One thing to do in order to keep a productive relationship with your database is to use the 33-touch system. To increase your business with past clients and referrals, look at what you’re sending them. According to the Red Book, for every 12 people you have in your database under your sphere of influence, you should be getting one piece of business, plus one referral. Your success with this ratio is determined by what you’re sending your database.
 
