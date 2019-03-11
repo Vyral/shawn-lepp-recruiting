@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What “For Sale By Owner” Really Means for Buyers and Sellers
+title: How to Stay in Touch With Past Clients
 date: 2019-03-07 00:00:00
 tags:
   - Lead Generation
