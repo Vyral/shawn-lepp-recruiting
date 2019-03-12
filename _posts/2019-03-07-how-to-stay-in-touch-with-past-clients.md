@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Your database is your business, so how can you manage yours to maintain a
   steady relationship with past clients and referrals?
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Shawn+Lepp/Videos/The+Shawn+Lepp+Group+-+How+to+Stay+in+Touch+With+Past+Clients.mp4
 pullquote: 'In 2018, 68% of our deals came from past clients and referrals.'
 enclosure_type: video/mp4
 enclosure_time:
