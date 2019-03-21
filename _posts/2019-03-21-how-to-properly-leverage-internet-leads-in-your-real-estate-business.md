@@ -13,8 +13,8 @@ pullquote: >-
   conversion rates.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/3-21---shawn-lepp---yt.jpg
 youtube_code: 9t2OB_vp3n4
 ---
 
@@ -22,7 +22,7 @@ youtube_code: 9t2OB_vp3n4
 
 <center><em>Are you getting the most out of your internet marketing strategy? Find out from today&rsquo;s message.</em></center>
 
-&nbsp;
+ 
 
 Today I’d like to highlight the topic of **internet marketing**.
 
