@@ -20,7 +20,7 @@ youtube_code: 9t2OB_vp3n4
 
 {% include youtube.html %}
 
-Are you getting the most out of your internet marketing strategy? Find out from today’s message.
+<center>Are you getting the most out of your internet marketing strategy? Find out from today’s message.</center>
 
 Today I’d like to highlight the topic of **internet marketing**.
 
