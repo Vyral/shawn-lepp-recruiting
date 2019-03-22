@@ -22,9 +22,7 @@ youtube_code: 9t2OB_vp3n4
 
 <center><em>Are you getting the most out of your internet marketing strategy? Find out from today&rsquo;s message.</em></center>
 
- 
-
-Today I’d like to highlight the topic of **internet marketing**.
+&nbsp;
 
 Internet marketing is quite a departure from the older, more traditional styles of marketing where we’d place ads in the newspaper and receive calls from people ready to do business.
 
