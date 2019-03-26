@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Are you getting the most out of your internet marketing strategy? Find out
   from today’s message.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Shawn+Lepp/Videos/The+Shawn+Lepp+Group+-+How+to+Properly+Leverage+Internet+Leads+in+Your+Real+Estate+Business.mp4
 pullquote: >-
   Having a system within your database makes a huge difference with your
   conversion rates.
@@ -22,7 +23,7 @@ youtube_code: 9t2OB_vp3n4
 
 <center><em>Are you getting the most out of your internet marketing strategy? Find out from today&rsquo;s message.</em></center>
 
-&nbsp;
+ 
 
 Internet marketing is quite a departure from the older, more traditional styles of marketing where we’d place ads in the newspaper and receive calls from people ready to do business.
 
