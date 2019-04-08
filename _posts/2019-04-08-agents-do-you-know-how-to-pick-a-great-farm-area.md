@@ -5,8 +5,8 @@ date: 2019-04-08 00:00:00
 tags:
   - Lead Generation
 excerpt: >-
-  Agents have been asking me about how to make the most of a farm area. Today
-  I’ll share some tips on how to create and sustain a great farming campaign.
+  Today I’ll share some tips on how to create and sustain a great farming
+  campaign.
 enclosure:
 pullquote: >-
   Farming as a marketing tool takes years to establish—you don’t send one flyer
@@ -22,7 +22,7 @@ youtube_code: OM5pgg7zgAk
 
 <center><em>Agents have been asking me about how to make the most of a farm area. Today I&rsquo;ll share some tips on how to create and sustain a great farming campaign.</em></center>
 
-&nbsp;
+ 
 
 When it comes to selecting a farming area, the first thing you’ll want to look at is **the number of houses there are in the area**. If you have a farm area where 10% of the homes sell—for example, if 100 out of 1,000 total homes sell—that’s a great farm area to begin marketing. Now, if there’s only a 1% turnover rate, you’ll be spending a lot of money and time on an area with a paltry return for your investment. Try picking an area with an excellent school district, as a start.
 
