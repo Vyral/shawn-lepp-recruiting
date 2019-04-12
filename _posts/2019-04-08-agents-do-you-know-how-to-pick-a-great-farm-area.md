@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today I’ll share some tips on how to create and sustain a great farming
   campaign.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Shawn+Lepp/Videos/The+Shawn+Lepp+Group+-+Agents-+Do+You+Know+How+to+Pick+a+Great+Farm+Area_.mp4
 pullquote: >-
   Farming as a marketing tool takes years to establish—you don’t send one flyer
   or make one phone call and suddenly have a flood of leads.
