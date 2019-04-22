@@ -18,7 +18,9 @@ youtube_code: yHwHOw1WzrI
 
 {% include youtube.html %}
 
-<center>How should you present an offer to your clients? Find out today.</center>
+<center><em>How should you present an offer to your clients? Find out today.</em></center>
+
+&nbsp;
 
 Things have changed when it comes to putting in an offer on a home. We used to go directly to the house to make an offer, but many agents are now sending them in digitally. Instead of giving us 24 hours to respond, we’re seeing short, irrevocable offers.
 
