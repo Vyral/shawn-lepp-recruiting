@@ -21,7 +21,9 @@ youtube_code: oDrqJcQUfxs
 
 {% include youtube.html %}
 
-<center>I recently sat down with one of our team’s great sales representatives, Jodie Harvey, and I can’t wait to share her thoughts on the Shawn Lepp Group with all of you today.</center>
+<center><em>I recently sat down with one of our team&rsquo;s great sales representatives, Jodie Harvey, and I can&rsquo;t wait to share her thoughts on the Shawn Lepp Group with all of you today.</em></center>
+
+&nbsp;
 
 Over the next couple of months, I’ll be introducing you to a few of our great team members here at the Shawn Lepp Group. For my first introduction, I decided to meet with sales representative Jodie Harvey to talk about her experience with us.
 
