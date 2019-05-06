@@ -6,8 +6,7 @@ tags:
   - Reviews and Referrals
 excerpt: >-
   I recently sat down with one of our team’s great sales representatives, Jodie
-  Harvey, and I can’t wait to share her thoughts on the Shawn Lepp Group with
-  all of you today.
+  Harvey, and I can’t wait to share her thoughts.
 enclosure:
 pullquote: >-
   Jodie says that her favorite part of the Shawn Lepp Group is the people who
