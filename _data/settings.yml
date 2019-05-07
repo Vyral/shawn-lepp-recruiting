@@ -104,7 +104,7 @@ images:
   logo_width_number: 40
   hero_text: '-- MARKET -- Real Estate Video Blog'
   hero_background_hex: '#999999'
-  hero_image_path: /img/background.jpg
+  hero_image_path: /uploads/54522836-10157118367439158-6250420825892061184-n.png
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#313f7e'
