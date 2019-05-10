@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   I recently sat down with one of our team’s great sales representatives, Jodie
   Harvey, and I can’t wait to share her thoughts.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Shawn+Lepp/Videos/The+Shawn+Lepp+Group+-+What+Jodie+Harvey+Says+About+Working+on+Our+Team.mp4
 pullquote: >-
   Jodie says that her favorite part of the Shawn Lepp Group is the people who
   make it up.
