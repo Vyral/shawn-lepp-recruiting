@@ -20,7 +20,7 @@ youtube_code: kI_8A-DKKVo
 
 {% include youtube.html %}
 
-What’s the best way to navigate a multiple-offer situation for your client? Today I’ll answer that question.
+<center>What’s the best way to navigate a multiple-offer situation for your client? Today I’ll answer that question.</center>
 
 How do multiple-offer situations work? What’s the best way to help guide your seller clients through them so they pick the best available offer and maximize their home sale?
 
