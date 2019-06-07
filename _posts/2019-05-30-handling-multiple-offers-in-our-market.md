@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   What’s the best way to navigate a multiple-offer situation for your client?
   Today I’ll answer that question.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Shawn+Lepp/Videos/The+Shawn+Lepp+Group+-+Handling+Multiple+Offers+in+Our+Market.mp4
 pullquote: >-
   No matter what side of the transaction you’re on, make sure you have all the
   proper disclosures before you even start the process.
