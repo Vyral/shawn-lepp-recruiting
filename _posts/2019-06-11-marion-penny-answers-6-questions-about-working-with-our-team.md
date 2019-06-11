@@ -20,7 +20,9 @@ youtube_code: zkh0JPCQwAE
 
 {% include youtube.html %}
 
-<center>What’s it like working on our team? Longtime member Marion Penny tells us that and more in today’s Q&A.</center>
+<center><em>What&rsquo;s it like working on our team? Longtime member Marion Penny tells us that and more in today&rsquo;s Q&amp;A.</em></center>
+
+&nbsp;
 
 I was happy to have the opportunity to sit down with friend and colleague Marion Penny for a short Q&A session. Marion is a longtime member of our team and has been an instrumental part of our success at The Shawn Lepp Group.
 
