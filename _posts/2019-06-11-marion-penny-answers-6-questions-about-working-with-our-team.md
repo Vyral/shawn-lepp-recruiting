@@ -24,7 +24,7 @@ youtube_code: zkh0JPCQwAE
 
 &nbsp;
 
-I was happy to have the opportunity to sit down with friend and colleague Marion Penny for a short Q&A session. Marion is a longtime member of our team and has been an instrumental part of our success at The Shawn Lepp Group.
+I was happy to have the opportunity to sit down with my friend and colleague Marion Penny for a short Q&A session. Marion is a longtime member of our team and has been an instrumental part of our success at The Shawn Lepp Group.
 
 ***Q. How long have you been on our team?***
 
