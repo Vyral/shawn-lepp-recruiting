@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   What’s it like working on our team? Longtime member Marion Penny tells us that
   and more in today’s Q&A.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Shawn+Lepp/Videos/The+Shawn+Lepp+Group+-+Marion+Penny+Answers+6+Questions+About+Working+With+Our+Team.mp4
 pullquote: >-
   On top of having a great relationship with Shawn and with everyone else on the
   team, I’ve built great relationships with my clients as well.
