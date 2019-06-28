@@ -20,7 +20,7 @@ youtube_code: fIRF94PDfAM
 
 {% include youtube.html %}
 
-If you want to host an effective open house, you need to follow these key steps.
+<center>If you want to host an effective open house, you need to follow these key steps.</center>
 
 Many agents ask whether open houses are a worthwhile tactic, and while we at the Shawn Lepp Group do believe them to be effective, it’s important to go about hosting an open house the right way.
 
