@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Does it Take to Host an Effective Open House?
+title: What Does It Take to Host an Effective Open House?
 date: 2019-06-28 00:00:00
 tags:
   - Listing Presentation
@@ -28,7 +28,7 @@ Many agents ask whether open houses are a worthwhile tactic, and while we at the
 
 **Our team takes a few critical steps to ensure each open house is as effective as possible**.
 
-First, we print flyers and gauge local interest in the property by doorknocking and making phone calls within the neighborhood. Not only do we invite the people we contact to the upcoming open house, but we also encourage them to get in touch with us if they or anyone they know is thinking of selling, themselves. **Open houses aren’t just a good marketing tool—they’re a great prospecting tool, as well**.
+First, we print flyers and gauge local interest in the property by door-knocking and making phone calls within the neighborhood. Not only do we invite the people we contact to the upcoming open house, but we also encourage them to get in touch with us if they or anyone they know is thinking of selling, themselves. **Open houses aren’t just a good marketing tool—they’re a great prospecting tool, as well**.
 
 Once you’ve prepared for the open house, the day of the event is just as important. Agents who host open houses must be aware that many buyers (and potential sellers) who show up will treat conversations with them like a job interview. If you want to gain new clients (and do right by your current clients), you need to dress well and act the part during every open house.
 
