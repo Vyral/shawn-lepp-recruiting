@@ -104,7 +104,7 @@ images:
   logo_width_number: 40
   hero_text: '-- MARKET -- Real Estate Video Blog'
   hero_background_hex: '#999999'
-  hero_image_path: /uploads/whitby-harbour2-trimmed.jpg
+  hero_image_path: /uploads/whitby-harbour2-trimmed-1.jpg
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#313f7e'
