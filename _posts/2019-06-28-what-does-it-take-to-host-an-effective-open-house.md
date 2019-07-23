@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you want to host an effective open house, you need to follow these key
   steps.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Shawn+Lepp/Videos/What+Does+It+Take+to+Host+an+Effective+Open+House_.mp4
 pullquote: >-
   Open houses can be extremely effective, but only if you follow the proper
   steps.
