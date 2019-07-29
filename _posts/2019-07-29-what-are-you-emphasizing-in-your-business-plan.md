@@ -30,8 +30,8 @@ For our part, **we sit down with each of our agents and make a point of discussi
 
 {% include pullquote.html %}
 
-**Do yourself a favor by carefully evaluating your business plan, looking at your financials, and asking yourself if your earnings are sufficient to support you into retirement**. The worst thing you could do is brush these concerns aside for another five years and find yourself in the same position in another 10 years. Start investing in either RSPs, stocks, or real estate now to set yourself up for financial security later.
+**Do yourself a favor by carefully evaluating your business plan, looking at your financials, and asking yourself if your earnings are sufficient to support you into retirement**. The worst thing you could do is brush these concerns aside for another five years and find yourself in the same position in another 10 years. Start investing in RSPs, stocks, or real estate now to set yourself up for financial security later.
 
-The bottom line is your business plan should not only encompass your short-term goals, but your retirement goals as well.
+The bottom line is that your business plan should not only encompass your short-term goals, but your retirement goals as well.
 
 If you have any questions or would like more information about strategizing for your future, feel free to give me a call at (905) 409-6778 or email me at [Shawn@ShawnLepp.com](mailto:Shawn@ShawnLepp.com). I’d be happy to help\!
