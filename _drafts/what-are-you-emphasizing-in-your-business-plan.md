@@ -18,7 +18,7 @@ youtube_code: Pcl92omUQcQ
 
 {% include youtube.html %}
 
-Your business plan should be about more than your short-term success.
+<center>Your business plan should be about more than your short-term success.</center>
 
 Now that we’re just past the halfway point of the year, it’s a good time to **review your business plan** if you haven’t already done so. Are you on track to meet your goals?
 
