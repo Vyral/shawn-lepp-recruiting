@@ -5,7 +5,8 @@ date: 2019-07-29 00:00:00
 tags:
   - Transaction Management
 excerpt: Your business plan should be about more than your short-term success.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Shawn+Lepp/Videos/What+Are+You+Emphasizing+in+Your+Business+Plan_.mp4
 pullquote: >-
   The bottom line is your business plan should not only encompass your
   short-term goals, but your retirement goals as well.
