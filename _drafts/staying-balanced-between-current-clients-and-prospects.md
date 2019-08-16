@@ -20,7 +20,7 @@ youtube_code: rgApVgjJ9yA
 
 {% include youtube.html %}
 
-If you want to stay balanced in your business, you need to make time for both your current clients and your prospects.
+<center>If you want to stay balanced in your business, you need to make time for both your current clients and your prospects.</center>
 
 How do you keep the balance between current clients and prospects during these beautiful summer months? To answer that question, I’ll tell you what our team does.
 
