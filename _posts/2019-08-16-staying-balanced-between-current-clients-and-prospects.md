@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you want to stay balanced in your business, you need to make time for both
   your current clients and your prospects.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Shawn+Lepp/Videos/Staying+Balanced+Between+Current+Clients+and+Prospects.mp4
 pullquote: >-
   If you want to achieve the same balance and stay consistent, make sure you
   time block for both your current clients and your prospects.
