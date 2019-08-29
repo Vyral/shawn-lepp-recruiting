@@ -18,7 +18,7 @@ youtube_code: WOrQOd32BXg
 
 {% include youtube.html %}
 
-Let’s review our business plans one last time before we close the book on 2019.
+<center>Let’s review our business plans one last time before we close the book on 2019.</center>
 
 Now that the kids are back in school and 2019 is winding down, it’s time to take a long, hard look at whether we’re on pace to hit our end-of-year goals.
 
