@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Let’s review our business plans one last time before we close the book on
   2019.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Shawn+Lepp/Videos/Are+You+on+Track+to+Hit+Your+Goals+This+Year_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
