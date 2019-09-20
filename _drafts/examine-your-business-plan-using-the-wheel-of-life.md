@@ -18,7 +18,7 @@ youtube_code: 04iOwycoidw
 
 {% include youtube.html %}
 
-Need a way to create balance in your life as you examine your business plan? Try the wheel of life.
+<center>Need a way to create balance in your life as you examine your business plan? Try the wheel of life.</center>
 
 What is the wheel of life and how can you use it to create more balance in your life and business?
 
