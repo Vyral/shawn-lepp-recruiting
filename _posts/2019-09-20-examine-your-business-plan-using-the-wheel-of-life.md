@@ -34,7 +34,7 @@ As the third quarter winds down, my team and I made our own wheel of life to exa
 
 **4\. Health:** Everyone has different health goals, and we compare our goals for this year versus our goals for next year.
 
-**5\. Family:** One of the reasons I started the Shawn Lepp Group is my family.
+**5\. Family:**&nbsp;This is one of the reasons I started the Shawn Lepp Group; my family.
 
 {% include pullquote.html %}
 
