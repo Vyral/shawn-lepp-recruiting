@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Need a way to create balance in your life as you examine your business plan?
   Try the wheel of life.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Shawn+Lepp/Videos/Examine+Your+Business+Plan+Using+the+Wheel+of+Life.mp4
 pullquote: This wheel is a great way to examine where you’re at in your life.
 enclosure_type: video/mp4
 enclosure_time:
