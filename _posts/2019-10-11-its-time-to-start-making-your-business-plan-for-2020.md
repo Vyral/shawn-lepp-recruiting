@@ -1,7 +1,7 @@
 ---
 layout: post
 title:
-date:
+date: 2019-10-11 19:25:48
 tags:
 excerpt:
 enclosure:
