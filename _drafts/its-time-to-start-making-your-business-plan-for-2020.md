@@ -18,7 +18,7 @@ youtube_code: 0TfpeUXoyK4
 
 {% include youtube.html %}
 
-If you haven’t started making your business plan for 2020, don’t wait any longer.
+<center>If you haven’t started making your business plan for 2020, don’t wait any longer.</center>
 
 Have you started making your business plan for 2020?
 
