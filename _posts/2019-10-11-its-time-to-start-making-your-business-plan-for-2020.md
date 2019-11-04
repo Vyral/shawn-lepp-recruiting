@@ -30,6 +30,6 @@ As I mentioned in <u><a target="_blank" href="https://realestateasacareer.ca/exa
 
 {% include pullquote.html %}
 
-There are quite a few factors we must consider when formulating a business plan, so **if you’d like to learn more about the process, you’re invited to our upcoming business clinic**.
+There are quite a few factors we must consider when formulating a business plan, so **if you’d like to learn more about the process, you’re invited to our upcoming business clinic on November 12 at <u><a target="_blank" href="https://goo.gl/maps/ACTQiRotSWnTSrxX9">Keller Williams Energy</a></u>**. **<u><a target="_blank" href="https://www.eventbrite.ca/e/business-planning-clinic-tickets-79577314891">RSVP here</a></u>\!**
 
 If you have any questions about this topic in the meantime, don’t hesitate to reach out to me. I’d love to speak with you.
