@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you haven’t started making your business plan for 2020, don’t wait any
   longer.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Shawn+Lepp/Videos/Its+Time+to+Start+Making+Your+Business+Plan+for+2020.mp4
 pullquote: All the activities we do now will dictate how we do next year.
 enclosure_type: video/mp4
 enclosure_time:
