@@ -16,7 +16,7 @@ youtube_code: Si74o-9uIjE
 
 {% include youtube.html %}
 
-<center><em>I highly recommend hiring a peer to hold you accountable. Here’s why.</em></center>
+<center><em>I highly recommend hiring a peer to hold you accountable. Here&rsquo;s why.</em></center>
 
 <br>I want to begin today’s topic by thanking everyone who came to our recent business clinic. I hope you learned a lot, and I hope you have a chance to apply what you learned.
 
