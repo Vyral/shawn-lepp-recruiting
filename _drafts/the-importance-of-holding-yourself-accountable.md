@@ -16,9 +16,9 @@ youtube_code: Si74o-9uIjE
 
 {% include youtube.html %}
 
-I highly recommend hiring a peer to hold you accountable. Here’s why.
+<center><em>I highly recommend hiring a peer to hold you accountable. Here’s why.</em></center>
 
-I want to begin today’s topic by thanking everyone who came to our recent business clinic. I hope you learned a lot, and I hope you have a chance to apply what you learned.
+<br>I want to begin today’s topic by thanking everyone who came to our recent business clinic. I hope you learned a lot, and I hope you have a chance to apply what you learned.
 
 After we host these clinics, I find that one of the hardest things to do is hold yourself accountable. To hold myself accountable, I meet with a coach once a week, and our team meets once a week to hold everyone else accountable.
 
