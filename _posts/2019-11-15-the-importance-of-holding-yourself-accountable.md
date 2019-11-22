@@ -5,7 +5,8 @@ date: 2019-11-15 00:00:00
 tags:
   - Transaction Management
 excerpt: I highly recommend hiring a peer to hold you accountable. Here’s why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Shawn+Lepp/Videos/The+Importance+of+Holding+Yourself+Accountable.mp4
 pullquote: You need someone to hold you accountable in terms of setting your goals.
 enclosure_type: video/mp4
 enclosure_time:
