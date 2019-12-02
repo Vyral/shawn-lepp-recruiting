@@ -16,7 +16,9 @@ youtube_code: rZRL-Obmmok
 
 {% include youtube.html %}
 
-It’s that time of year again, it’s December, so you may be working, preparing for an upcoming vacation, and holiday shopping. Right now you might be wondering: Do our clients want to hear from us? You’d be shocked how many clients do want to hear from you. The most difficult part is, what do we say? **What do we do this time of year so we can feel like we’re sending something beneficial?**
+<center><em>Here are some great ideas on how to contact your clients this holiday season.</em></center>
+
+<br>It’s that time of year again, it’s December, so you may be working, preparing for an upcoming vacation, and holiday shopping. Right now you might be wondering: Do our clients want to hear from us? You’d be shocked how many clients do want to hear from you. The most difficult part is, what do we say? **What do we do this time of year so we can feel like we’re sending something beneficial?**
 
 **Here are a few things you can do:**
 
