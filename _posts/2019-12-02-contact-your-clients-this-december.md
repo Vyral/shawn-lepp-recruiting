@@ -5,7 +5,8 @@ date: 2019-12-02 00:00:00
 tags:
   - Lead Conversion
 excerpt: Here are some great ideas on how to contact your clients this holiday season.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Shawn+Lepp/Videos/Contact+Your+Clients+This+December.mp4
 pullquote: You’d be shocked how many clients do want to hear from you.
 enclosure_type: video/mp4
 enclosure_time:
