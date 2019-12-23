@@ -18,7 +18,9 @@ youtube_code: zXFQkh9h4N0
 
 {% include youtube.html %}
 
-I hope everyone is preparing for the holidays and that you remain safe and happy throughout them.
+<center><em>I’m discussing the importance of sticking to your business plan all through the year.</em></center>
+
+<br>I hope everyone is preparing for the holidays and that you remain safe and happy throughout them.
 
 One thing we’re doing on our team right now is looking back at the goals we set, seeing what we have already implemented, and figuring out what we need to achieve after the holidays. Many projects go on for 90 days, so **what you do now will affect your second quarter**. Most of the deals you close in January will start hitting in March.
 
