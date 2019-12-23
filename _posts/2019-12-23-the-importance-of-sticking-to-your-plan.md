@@ -18,7 +18,7 @@ youtube_code: zXFQkh9h4N0
 
 {% include youtube.html %}
 
-<center><em>I’m discussing the importance of sticking to your business plan all through the year.</em></center>
+<center><em>I&rsquo;m discussing the importance of sticking to your business plan all through the year.</em></center>
 
 <br>I hope everyone is preparing for the holidays and that you remain safe and happy throughout them.
 
