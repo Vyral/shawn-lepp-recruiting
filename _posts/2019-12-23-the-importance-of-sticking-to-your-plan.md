@@ -20,11 +20,11 @@ youtube_code: zXFQkh9h4N0
 
 <center><em>I&rsquo;m discussing the importance of sticking to your business plan all through the year.</em></center>
 
-<br>I hope everyone is preparing for the holidays and that you remain safe and happy throughout them.
+<br>I hope everyone is having a safe and happy holiday season.
 
 One thing we’re doing on our team right now is looking back at the goals we set, seeing what we have already implemented, and figuring out what we need to achieve after the holidays. Many projects go on for 90 days, so **what you do now will affect your second quarter**. Most of the deals you close in January will start hitting in March.
 
-You should review your business plans quarter by quarter to make sure you’re on target. This way, you get the new year, and each subsequent quarter, off and running. Business will continue running through the holidays, even though some of us will take vacation time. Look at your business plan: Where are you for the first quarter of 2020? Have you completed what you said you would in 2019?
+You should review your business plans quarter by quarter to make sure you’re on target. This way, you start the new year, and each subsequent quarter, off and running. Business will continue running through the holidays, even though some of us will take vacation time. Look at your business plan: Where are you for the first quarter of 2020? Have you completed what you said you would in 2019?
 
 {% include pullquote.html %}
 
