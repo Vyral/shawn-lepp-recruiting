@@ -21,7 +21,9 @@ youtube_code: JTh7jPfiha0
 
 {% include youtube.html %}
 
-I hope everyone had a great holiday season and a happy New Year’s. To start what I hope will be a great 2020, I’m sharing how we’ve begun to change our value proposition.
+<center><em>How do we show buyers that they should be working with us? It’s all about improving our value proposition.</em></center>
+
+<br>I hope everyone had a great holiday season and a happy New Year’s. To start what I hope will be a great 2020, I’m sharing how we’ve begun to change our value proposition.
 
 **Buyers are able to find properties online and make use of an array of real estate apps**; they have access to all the sold information and they can see what’s on the market.
 
