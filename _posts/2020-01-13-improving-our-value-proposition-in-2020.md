@@ -21,7 +21,7 @@ youtube_code: JTh7jPfiha0
 
 {% include youtube.html %}
 
-<center><em>How do we show buyers that they should be working with us? It’s all about improving our value proposition.</em></center>
+<center><em>How do we show buyers that they should be working with us? It&rsquo;s all about improving our value proposition.</em></center>
 
 <br>I hope everyone had a great holiday season and a happy New Year’s. To start what I hope will be a great 2020, I’m sharing how we’ve begun to change our value proposition.
 
