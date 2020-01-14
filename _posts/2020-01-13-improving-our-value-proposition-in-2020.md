@@ -34,4 +34,4 @@ This shift has led us to reflect on how we can better communicate our value to b
 
 Do they understand how offers work? Do they have any questions about deposits? **We also make sure to discuss how we relieve stress from buyers once they find a house they love**.
 
-If you have any questions about what you should include in your value proposition, feel free to give me a call (905) 409 -6778.
+If you have any questions about what you should include in your value proposition, feel free to give me a call at (905) 409 -6778. I would be happy to speak with you.
