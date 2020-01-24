@@ -9,7 +9,8 @@ tags:
 excerpt: >-
   How do we show buyers that they should be working with us? It’s all about
   improving our value proposition.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Shawn+Lepp/Videos/Improving+Our+Value+Proposition+in+2020.mp4
 pullquote: >-
   Making sure our buyer presentations are loaded with step-by-step information
   is key.
