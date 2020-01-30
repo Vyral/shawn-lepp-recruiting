@@ -16,7 +16,7 @@ youtube_code: nYXCl2NTeOA
 
 {% include youtube.html %}
 
-<center><em>I’m excited to introduce you to our newest agent, John Russell.</em></center>
+<center><em>I&rsquo;m excited to introduce you to our newest agent, John Russell.</em></center>
 
 <br>John Russel is the newest agent on the Shawn Lepp Group, and we’re excited to have him sit down for a quick interview today so you can get to know him a little. John has gotten off to a great start with us in the month he’s been here, and we’re excited to watch him grow in his career.
 
