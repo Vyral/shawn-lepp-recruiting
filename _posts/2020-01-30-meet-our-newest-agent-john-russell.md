@@ -5,7 +5,8 @@ date: 2020-01-30 00:00:00
 tags:
   - Transaction Management
 excerpt: 'I’m excited to introduce you to our newest agent, John Russell.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Shawn+Lepp/Videos/Meet+Our+Newest+Agent-+John+Russell.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
