@@ -19,7 +19,9 @@ youtube_code: Uge_q-mbZF8
 
 {% include youtube.html %}
 
-How do we get so many listings?
+<center><em>If you want to get more listings, you need to have a listing presentation ready for each one of your appointments.</em></center>
+
+<br>How do we get so many listings?
 
 It’s a very hot market out there, and whenever someone asks me this question, I ask them: Do you have a listing presentation? **Not everyone has a listing presentation set up on their tablet or computer, and if you don’t, I highly recommend getting one**.
 
