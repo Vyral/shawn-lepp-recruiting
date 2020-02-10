@@ -34,7 +34,7 @@ What goes into this presentation? Include a little bit about yourself or your te
 
 {% include pullquote.html %}
 
-Show them every step you’ll take from day one so they know what to expect from you and what your expectations are of them once they leave that listing appointment. I’d also add some market statistics—inventory numbers are always key in showing them where the market is going. Add some statistics about yourself as well. If you’re a newer agent and don’t have statistics of your own, use your office’s. Many offices have IMS statistics available.
+Show them every step you’ll take from day one so they know what to expect from you and what your expectations are once they leave that listing appointment. I’d also add some market statistics—inventory numbers are always key in showing them where the market is going. Add some statistics about yourself as well. If you’re a newer agent and don’t have statistics of your own, use your office’s. Many offices have IMS statistics available.
 
 The bottom line is that&nbsp;**if you come to a listing appointment prepared with a listing presentation, that will give the seller confidence to list with you**.
 
