@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   If you want to get more listings, you need to have a listing presentation
   ready for each one of your appointments.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Shawn+Lepp/Videos/The+Key+to+Getting+Listings.mp4
 pullquote: Do you have a listing presentation?
 enclosure_type: video/mp4
 enclosure_time:
