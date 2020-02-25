@@ -19,7 +19,7 @@ youtube_code: mqWQkpc7idw
 
 {% include youtube.html %}
 
-<center><em>Here’s how to protect yourself and your buyer in a multiple-offer situation.</em></center>
+<center><em>Here&rsquo;s how to protect yourself and your buyer in a multiple-offer situation.</em></center>
 
 <br>Our spring market is already crazy, and multiple-offer situations are popping up everywhere. When representing buyers in this scenario, you need to protect both them and yourself. Here are a few things to keep in mind in order to do so.
 
