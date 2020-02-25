@@ -19,7 +19,9 @@ youtube_code: mqWQkpc7idw
 
 {% include youtube.html %}
 
-Our spring market is already crazy, and multiple-offer situations are popping up everywhere. When representing buyers in this scenario, you need to protect both them and yourself. Here are a few things to keep in mind in order to do so.
+<center><em>Here’s how to protect yourself and your buyer in a multiple-offer situation.</em></center>
+
+<br>Our spring market is already crazy, and multiple-offer situations are popping up everywhere. When representing buyers in this scenario, you need to protect both them and yourself. Here are a few things to keep in mind in order to do so.
 
 First of all, does your buyer need to do a home inspection? Have they seen the home well enough? It might cost a few extra dollars, but **we recommend getting a pre-inspection**. Make sure your buyer knows exactly what’s in that house. I also highly advise you to have the inspector record any issues in writing.
 
