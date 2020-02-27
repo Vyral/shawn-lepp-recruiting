@@ -29,7 +29,7 @@ During multiple-offer situations, a lot of agents are taking out their financing
 
 {% include pullquote.html %}
 
-Additionally, **make sure you’re not competing with other agents in your office**, so ask the listing agent if they have any offers from agents in your office. Most offers will be faxed in, so you’ll want more of a disclosure from that agent before you and your buyer move forward.
+Additionally, **make sure you’re not competing with other agents in your office**, ask the listing agent if they have any offers from agents in your office. Most offers will be faxed in, so you’ll want a disclosure from that agent before you and your buyer move forward.
 
 Lastly, **try to get bigger deposits**—some people are getting deposit checks beforehand.
 
