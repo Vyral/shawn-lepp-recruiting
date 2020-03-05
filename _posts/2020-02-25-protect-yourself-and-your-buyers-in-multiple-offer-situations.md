@@ -6,7 +6,8 @@ tags:
   - Buyer Prospects
   - Transaction Management
 excerpt: Here’s how to protect yourself and your buyer in a multiple-offer situation.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Shawn+Lepp/Videos/Protect+Yourself+and+Your+Buyers+in+Multiple-Offer+Situations.mp4
 pullquote: >-
   When representing buyers in this scenario, you need to protect both them and
   yourself.
