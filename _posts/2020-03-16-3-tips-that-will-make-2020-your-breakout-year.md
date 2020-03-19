@@ -20,7 +20,7 @@ youtube_code: _bB6UyqBDlw
 
 <center><em>There are three tips you must remember if you want to make 2020 your breakout year.</em></center>
 
-<br>It’s already March, and hopefully you have a lot of momentum built up for the rest of 2020. Here are three tips to remember to ensure that 2020 is your breakout year:
+<br>It’s already March, and hopefully you have a lot of momentum built up for the rest of 2020. Here are three tips to ensure that 2020 is your breakout year:
 
 **1\. Stay focused**. It seems like we’re always following the latest shiny new object or listening to what other agents are saying. Stay focused on what you need to do. That’s what I’m coaching my agents. It’s all a matter of staying focused on what you need to get done and not listening to what other people are doing.
 
