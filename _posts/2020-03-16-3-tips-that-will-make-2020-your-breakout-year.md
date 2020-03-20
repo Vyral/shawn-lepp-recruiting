@@ -23,9 +23,9 @@ youtube_code: _bB6UyqBDlw
 
 <br>It’s already March, and hopefully you have a lot of momentum built up for the rest of 2020. Here are three tips to ensure that 2020 is your breakout year:
 
-**1\. Stay focused**. It seems like we’re always following the latest shiny new object or listening to what other agents are saying. Stay focused on what you need to do. That’s what I’m coaching my agents. It’s all a matter of staying focused on what you need to get done and not listening to what other people are doing.
+**1\. Stay focused**. It seems like we’re always following the latest shiny new object or listening to what other agents are saying. Stay focused on what you need to do. That’s how I’m coaching my agents. It’s all a matter of staying focused on what you need to get done and not listening to what other people are doing.
 
-**2\. Execute your business plan**. Start by picking one item in that business plan and executing it for a full month. If you follow through with this step for a full month and stay consistent with the rest of your plan, it will make a huge difference.
+**2\. Execute your business plan**. Start by picking one item in that business plan and executing it for a full month. If you follow through with this step for a month and stay consistent with the rest of your plan, it will make a huge difference.
 
 **3\. Try new things**. For example, try adding a new lead pillar. If you do the same thing you did last year, you’ll get the same results as last year. Don’t just rely on one lead pillar, especially in our changing market. You need four or five at all times so you have leads coming in different ways.
 
