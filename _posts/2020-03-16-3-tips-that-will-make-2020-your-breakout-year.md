@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   There are three tips you must remember if you want to make 2020 your breakout
   year.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Shawn+Lepp/Videos/3+Tips+That+Will+Make+2020+Your+Breakout+Year.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
